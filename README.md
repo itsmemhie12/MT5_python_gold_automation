@@ -1,0 +1,1 @@
+# MT5_python_gold_automation
